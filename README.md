@@ -33,7 +33,7 @@ Voici les technologies et outils que j'utilise régulièrement :
 
 ## 📂 Projets en avant
 
-### 🔧 [Script Mode Avion](https://github.com/nearofly/Mode-Avion-script)
+### 🔧 [Script Mode Avion](https://github.com/nearofly/Mode-Avion)
 Un script complet pour gérer le mode avion sur Linux. Ce script vous permet d'activer ou désactiver le mode avion sur votre machine via une interface simple.
 
 #### 💡 Fonctionnalités :
@@ -45,7 +45,7 @@ Un script complet pour gérer le mode avion sur Linux. Ce script vous permet d'a
 1. **Cloner le repository :**
    Ouvrez un terminal et clonez le projet depuis GitHub.
    ```bash
-   git clone https://github.com/nearofly/Mode-Avion-script.git
+   git clone https://github.com/nearofly/Mode-Avion.git
    cd mode-avion-script
 
 	2.	Installer les dépendances nécessaires :
@@ -135,7 +135,7 @@ Une fois exécutable, vous pouvez lancer le script. Cela ouvrira une fenêtre Ze
 Pour désinstaller, vous supprimez les fichiers clonés et, si nécessaire, désinstallez Zenity.
 
 cd ..
-rm -rf mode-avion-script
+rm -rf mode-avion
 sudo apt remove zenity
 
 ## Wharkly
