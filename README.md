@@ -3,7 +3,7 @@ README.md
 # 👋 Bienvenue sur le GitHub de Wharkly47 !
 
 ![Header](https://raw.githubusercontent.com/nearofly/mon-repo/main/assets/header-image.png)
-<!-- Remplacez le lien ci-dessus par celui de votre image de présentation après l'avoir téléchargée dans un dossier sur GitHub -->
+
 
 ## 🧑‍💻 À propos de moi
 Je suis **Wharkly47**, un développeur passionné par :
@@ -33,7 +33,7 @@ Voici les technologies et outils que j'utilise régulièrement :
 
 ## 📂 Projets en avant
 
-### 🔧 [Script Mode Avion](https://github.com/nearofly/mode-avion-script)
+### 🔧 [Script Mode Avion](https://github.com/nearofly/Mode-Avion-script)
 Un script complet pour gérer le mode avion sur Linux. Ce script vous permet d'activer ou désactiver le mode avion sur votre machine via une interface simple.
 
 #### 💡 Fonctionnalités :
@@ -45,7 +45,7 @@ Un script complet pour gérer le mode avion sur Linux. Ce script vous permet d'a
 1. **Cloner le repository :**
    Ouvrez un terminal et clonez le projet depuis GitHub.
    ```bash
-   git clone https://github.com/nearofly/mode-avion-script.git
+   git clone https://github.com/nearofly/Mode-Avion-script.git
    cd mode-avion-script
 
 	2.	Installer les dépendances nécessaires :
@@ -58,13 +58,13 @@ sudo apt install zenity
 	3.	Rendre le script exécutable :
 Avant d’exécuter le script, vous devez vous assurer qu’il est exécutable.
 
-chmod +x mode_avion.sh
+chmod +x Mode-Avion.sh
 
 
 	4.	Exécuter le script :
 Une fois le script installé, vous pouvez l’exécuter en utilisant la commande suivante dans le terminal :
 
-./mode_avion.sh
+./Mod-Avion.sh
 
 Cela ouvrira une fenêtre Zenity où vous pourrez activer ou désactiver le mode avion.
 
@@ -74,7 +74,7 @@ Pour désinstaller le script et supprimer les fichiers associés, vous pouvez su
 	1.	Supprimer les fichiers clonés :
 
 cd ..
-rm -rf mode-avion-script
+rm -rf Mode-Avion
 
 
 	2.	Désinstaller Zenity (si vous n’en avez plus besoin) :
@@ -109,8 +109,8 @@ N’hésitez pas à explorer mes projets, contribuer ou simplement laisser une �
 - **Cloner le repository :**
    Le dépôt GitHub est cloné sur votre machine locale pour que vous puissiez accéder au script.
    ```bash
-   git clone https://github.com/nearofly/mode-avion-script.git
-   cd mode-avion-script
+   git clone https://github.com/nearofly/Mode-Avion.git
+   cd Mode-Avion
 
 	•	Installer Zenity :
 Zenity est une bibliothèque d’interface graphique pour créer des fenêtres et des boîtes de dialogue. Elle est nécessaire pour afficher l’interface utilisateur du script.
@@ -122,13 +122,13 @@ sudo apt install zenity
 	•	Rendre le script exécutable :
 La commande chmod +x rend le fichier exécutable, ce qui est nécessaire pour lancer le script.
 
-chmod +x mode_avion.sh
+chmod +x Mode-Avion.sh
 
 
 	•	Exécuter le script :
 Une fois exécutable, vous pouvez lancer le script. Cela ouvrira une fenêtre Zenity permettant d’activer ou de désactiver le mode avion.
 
-./mode_avion.sh
+./Mode-Avion.sh
 
 
 	•	Désinstallation :
