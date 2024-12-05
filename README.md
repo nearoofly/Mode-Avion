@@ -2,7 +2,7 @@ README.md
 
 # 👋 Bienvenue sur le GitHub de Wharkly47 !
 
-![Header](https://raw.githubusercontent.com/nearofly/mon-repo/main/assets/header-image.png)
+![Header](https://raw.githubusercontent.com/nearoofly/mon-repo/main/assets/header-image.png)
 
 
 ## 🧑‍💻 À propos de moi
@@ -33,7 +33,7 @@ Voici les technologies et outils que j'utilise régulièrement :
 
 ## 📂 Projets en avant
 
-### 🔧 [Script Mode Avion](https://github.com/nearofly/Mode-Avion)
+### 🔧 [Script Mode Avion](https://github.com/nearoofly/Mode-Avion)
 Un script complet pour gérer le mode avion sur Linux. Ce script vous permet d'activer ou désactiver le mode avion sur votre machine via une interface simple.
 
 #### 💡 Fonctionnalités :
@@ -45,7 +45,7 @@ Un script complet pour gérer le mode avion sur Linux. Ce script vous permet d'a
 1. **Cloner le repository :**
    Ouvrez un terminal et clonez le projet depuis GitHub.
    ```bash
-   git clone https://github.com/nearofly/Mode-Avion.git
+   git clone https://github.com/nearoofly/Mode-Avion.git
    cd mode-avion-script
 
 	2.	Installer les dépendances nécessaires :
@@ -109,7 +109,7 @@ N’hésitez pas à explorer mes projets, contribuer ou simplement laisser une �
 - **Cloner le repository :**
    Le dépôt GitHub est cloné sur votre machine locale pour que vous puissiez accéder au script.
    ```bash
-   git clone https://github.com/nearofly/Mode-Avion.git
+   git clone https://github.com/nearoofly/Mode-Avion.git
    cd Mode-Avion
 
 	•	Installer Zenity :
